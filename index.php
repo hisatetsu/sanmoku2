@@ -1,5 +1,6 @@
-<?php 
 
+<?php 
+##12/17変更
 session_start();
 
 
