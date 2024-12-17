@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+
+table , td, th {
+	border: 1px solid #595959;
+	border-collapse: collapse;
+}
+tr{
+	height:100px;	
+}
+td, th {
+	padding: 0px;
+	width: 100px;
+	height:100px;
+}
+th {
+	background: #f0e6cc;
+}
+.even {
+	background-color: #fbf8f0;
+	background: #fbf8f0;
+}
+.odd {
+	background-color: #fefcf9;
+	background: #fefcf9;
+}
+
+.box{
+	width: 100px;
+	height:100px;
+	background-color: #fefcf9;
+	
+}
+
+.human{
+	background-image: url('../images/circ.png');
+}
+
+.computer{
+	background-image: url('../images/cross.png');
+}
+
